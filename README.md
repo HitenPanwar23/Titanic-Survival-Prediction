@@ -11,4 +11,4 @@ We split the data into train data and test data in the ratio 80:20 i.e. 80% trai
 
 # Conclusion
 
-The model that I use to make prediction for which passenger on board the ship would survive and then another prediction to see if i would have survived, is Decision tree Classifier because it has 76.16% testing accuracy and 99.39% training accuracy. Now we have chosen a model for making the predictions, so we see if i would i have survived or not. After putting the values, it looks like i would have not
+The model that I use to make prediction for which passenger on board the ship would survive and then another prediction to see if i would have survived, is Random Forest Classifier because it has 78.50% testing accuracy and 98.79% training accuracy. Now we have chosen a model for making the predictions, so we see if i would i have survived or not. After putting the values, it looks like i would have not survived.
